@@ -3,7 +3,7 @@
 Welcome to Bayes II at ICPSR!
 
 I will be passing material to you through the overleaf and this github.  The material on the overleaf can be accessed through this 
- [link](https://www.overleaf.com/read/ttrwjfsxxzjf).  The syllabus, lecture notes, readings, and other materials can be found in the overleaf.
+ [link](https://www.overleaf.com/read/ttqzsmfdtfhz).  The syllabus, lecture notes, readings, and other materials can be found in the overleaf.
 
 The assignment can be accessed in the notebook above. The first one is designed to run in R, though we will have work in Python later in the semester.
 
